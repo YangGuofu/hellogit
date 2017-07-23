@@ -1,2 +1,3 @@
 master text 1
 master text 2
+master text 3
