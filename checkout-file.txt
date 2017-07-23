@@ -1,1 +1,2 @@
 add file
+text added to stage
