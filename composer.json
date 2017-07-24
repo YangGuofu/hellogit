@@ -1,0 +1,12 @@
+{
+  "name": "YangGuofu/hellogit",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/YangGuofu/hellogit"
+    }
+  ],
+  "require": {
+    "monolog/monolog": "1.2.*"
+  }
+}
